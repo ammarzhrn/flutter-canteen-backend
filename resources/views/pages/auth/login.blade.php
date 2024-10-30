@@ -108,11 +108,11 @@
                         <div class="text-light p-5 pb-2">
                             <div class="mb-5 pb-3">
                                 <h1 class="display-4 font-weight-bold mb-2">Good Morning</h1>
-                                <h5 class="font-weight-normal text-muted-transparent">Bali, Indonesia</h5>
+                                <h5 class="font-weight-normal text-muted-transparent">Kinabalu, Malaysia</h5>
                             </div>
                             Photo by <a class="text-light bb"
                                 target="_blank"
-                                href="https://unsplash.com/photos/a8lTjWJJgLA">Justin Kauffman</a> on <a
+                                href="https://unsplash.com/photos/FMB5MSmVt9I">Ammar Zahran</a> on <a
                                 class="text-light bb"
                                 target="_blank"
                                 href="https://unsplash.com">Unsplash</a>
